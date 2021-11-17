@@ -32,8 +32,6 @@ public class Main {
        
     }
      
-    
-
 }
 
 class Fack{
