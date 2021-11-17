@@ -7,10 +7,12 @@ public class Main {
     
      public static void main(String[] args) {
         
-        long startTime1 = System.nanoTime();
+        
          
         Fack fack = new Fack();
        
+        long startTime1 = System.nanoTime();
+         
         System.out.println(fack.Fak(5));
         
         
